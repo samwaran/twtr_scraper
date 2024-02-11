@@ -1,6 +1,6 @@
 # twtr_scraper
 
-## description
+## Description
 A tweets web scraper that even works in 2024. This uses an unofficial release of [ntscraper](https://github.com/bocchilorenzo/ntscraper), therefore, kindly use it for educational purpose only.
 
 ## Installation
